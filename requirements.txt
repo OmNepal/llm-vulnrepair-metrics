@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+transformers>=4.38.0
+accelerate>=0.27.0
+bitsandbytes>=0.42.0
+semgrep
+python-dotenv
+torch
+scipy
+psutil

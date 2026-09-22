@@ -1,0 +1,7 @@
+setting,model,gained_fail_to_pass,lost_pass_to_fail,net_change,compile_rate_%
+gnu17,codegen_350M_multi,0,0,0,5.45
+gnu17,deepseek_1.3b,0,0,0,3.45
+gnu17,deepseek_6.7b,0,0,0,3.32
+gnu89,codegen_350M_multi,146,0,146,10.25
+gnu89,deepseek_1.3b,164,0,164,8.83
+gnu89,deepseek_6.7b,170,0,170,8.9

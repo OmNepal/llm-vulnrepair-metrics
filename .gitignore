@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment
+.env
+
+# Big-Vul is not redistributed here; see README
+data/MSR_data_cleaned.csv
+data/scale200/
+data/test_functions*.csv
+data/fewshot_pool.json
+
+# Generated patch data (large; regenerate with the pipeline)
+results/*.jsonl
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

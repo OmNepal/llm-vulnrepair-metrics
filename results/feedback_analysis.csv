@@ -1,0 +1,9 @@
+model,round,n,n_compilable,compile_rate_%,codebleu,string_sim,codebleu_compilable,codebleu_noncompilable
+deepseek_1.3b_200,0,203,5,2.46,0.6496,0.7158,0.6277,0.6501
+deepseek_1.3b_200,1,203,4,1.97,0.4335,0.4146,0.5349,0.4314
+deepseek_1.3b_200,2,203,5,2.46,0.3955,0.3624,0.4972,0.3929
+deepseek_1.3b_200,3,203,8,3.94,0.4365,0.4185,0.3892,0.4385
+deepseek_1.3b_instruct_200,0,203,8,3.94,0.4331,0.4102,0.468,0.4316
+deepseek_1.3b_instruct_200,1,203,10,4.93,0.4645,0.4113,0.4409,0.4657
+deepseek_1.3b_instruct_200,2,203,16,7.88,0.4069,0.3455,0.3521,0.4116
+deepseek_1.3b_instruct_200,3,203,19,9.36,0.3771,0.3196,0.3139,0.3836

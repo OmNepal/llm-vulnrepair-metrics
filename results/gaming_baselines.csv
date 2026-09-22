@@ -1,0 +1,19 @@
+kind,name,n,mean_diff_f1,median_diff_f1
+synthetic,no-op (copy of input),203,0.0,0.0
+synthetic,#if 0 around whole function,203,0.0271,0.008
+synthetic,empty body + placeholder comment,203,0.1747,0.0983
+synthetic,body = return 0;,203,0.2222,0.1656
+real,instruct:CWE-264_23:short,1,0.0784,0.0784
+real,instruct:CWE-125_21:placeholder,1,0.087,0.087
+real,instruct:CWE-125_05:short,1,0.0909,0.0909
+real,instruct:CWE-399_27:short,1,0.106,0.106
+real,instruct:CWE-264_16:placeholder,1,0.1099,0.1099
+real,instruct:CWE-20_04:placeholder,1,0.1613,0.1613
+real,instruct:CWE-264_10:placeholder,1,0.1633,0.1633
+real,instruct:CWE-200_22:placeholder,1,0.1825,0.1825
+real,instruct:CWE-119_02:placeholder,1,0.2041,0.2041
+real,instruct:CWE-189_17:short,1,0.3007,0.3007
+real,instruct:CWE-20_03:placeholder,1,0.428,0.428
+real,base:CWE-200_14:placeholder,1,0.4544,0.4544
+real,base:CWE-119_01:if0,1,0.4793,0.4793
+real,instruct:CWE-264_12:short,1,0.4828,0.4828

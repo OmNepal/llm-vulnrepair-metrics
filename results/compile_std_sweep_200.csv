@@ -1,0 +1,10 @@
+setting,model,n,compilable,compile_rate_%,setup_fixable,setup_dataset,setup_context,setup_total,non_code,malformed_c,missing_context,harness_artifact,dataset_artifact,other
+default,codegen_350M_multi,3045,166,5.45,117,429,1299,1845,15,558,1299,117,429,461
+default,deepseek_1.3b,3045,105,3.45,71,538,1294,1903,0,534,1294,71,538,503
+default,deepseek_6.7b,3045,101,3.32,75,551,1286,1912,3,528,1286,75,551,501
+gnu17,codegen_350M_multi,3045,166,5.45,117,429,1299,1845,15,558,1299,117,429,461
+gnu17,deepseek_1.3b,3045,105,3.45,71,538,1294,1903,0,534,1294,71,538,503
+gnu17,deepseek_6.7b,3045,101,3.32,75,551,1286,1912,3,528,1286,75,551,501
+gnu89,codegen_350M_multi,3045,312,10.25,134,0,1496,1630,14,758,1496,134,0,331
+gnu89,deepseek_1.3b,3045,269,8.83,75,0,1545,1620,0,785,1545,75,0,371
+gnu89,deepseek_6.7b,3045,271,8.9,76,0,1537,1613,3,799,1537,76,0,359

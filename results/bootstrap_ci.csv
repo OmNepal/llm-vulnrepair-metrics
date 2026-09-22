@@ -1,0 +1,10 @@
+model,n_functions,metric,point,ci_low,ci_high
+codegen_350M_multi_200,203,compile_rate_%,5.4516,3.514,7.7504
+codegen_350M_multi_200,203,codebleu,0.4628,0.4411,0.4843
+codegen_350M_multi_200,203,string_sim,0.4909,0.4645,0.5179
+deepseek_1.3b_200,203,compile_rate_%,3.4483,1.3793,6.0427
+deepseek_1.3b_200,203,codebleu,0.6617,0.637,0.6848
+deepseek_1.3b_200,203,string_sim,0.7289,0.7041,0.7539
+deepseek_6.7b_200,203,compile_rate_%,3.3169,1.2151,5.8785
+deepseek_6.7b_200,203,codebleu,0.6751,0.6504,0.6987
+deepseek_6.7b_200,203,string_sim,0.7379,0.7131,0.761
