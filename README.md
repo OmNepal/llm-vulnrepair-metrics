@@ -1,7 +1,9 @@
 # Metrics Failure in LLM-Based Code Vulnerability Repair
 
-Replication package for the paper *"Metrics Failure in LLM-Based Code Vulnerability
-Repair: An Empirical Study and a Change-Aware Screen."*
+[![arXiv](https://img.shields.io/badge/arXiv-2609.26749-b31b1b.svg)](https://arxiv.org/abs/2609.26749)
+
+Replication package for the paper [*"Metrics Failure in LLM-Based Code Vulnerability
+Repair: An Empirical Study and a Change-Aware Screen."*](https://arxiv.org/abs/2609.26749)
 
 The paper asks whether the metrics the field uses to judge LLM-generated vulnerability
 patches are trustworthy. Across five controlled experiments on 203 vulnerable functions
@@ -81,6 +83,21 @@ Generation needs a GPU; validation, scoring and analysis are CPU-only.
 
 Om Nepal, Sushant Aryal, Oluseyi Olukola, and Nick Rahimi. *Metrics Failure in LLM-Based
 Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen.*
+arXiv:2609.26749 [cs.SE], 2026. <https://arxiv.org/abs/2609.26749>
+
+```bibtex
+@misc{nepal2026metrics,
+  title         = {Metrics Failure in {LLM}-Based Code Vulnerability Repair:
+                   An Empirical Study and a Change-Aware Screen},
+  author        = {Nepal, Om and Aryal, Sushant and Olukola, Oluseyi and Rahimi, Nick},
+  year          = {2026},
+  eprint        = {2609.26749},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.SE},
+  doi           = {10.48550/arXiv.2609.26749},
+  url           = {https://arxiv.org/abs/2609.26749}
+}
+```
 
 ## Dataset
 
